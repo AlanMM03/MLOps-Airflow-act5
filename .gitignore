@@ -1,0 +1,5 @@
+.env
+logs/
+*.pkl
+.venv/
+docker-compose.yml
